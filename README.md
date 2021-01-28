@@ -1,7 +1,5 @@
 # Advent of Code
-
-[![License is MIT](https://img.shields.io/github/license/N-l1/advent-of-code?style=flat-square)](https://github.com/N-l1/advent-of-code/blob/main/LICENSE) 
-[![Maintained as of 2021](https://img.shields.io/maintenance/yes/2021?style=flat-square)](https://github.com/N-l1)
+> My Python Advent of Code solutions
 
 This is my first real use of Python apart from the theoretical learning. Not the cleanest nor the most efficient code, just hacked together into something that works while having fun and learning. Kudos to [**@topaz**](https://github.com/topaz) for creating [AoC](https://adventofcode.com)!
 
