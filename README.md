@@ -1,7 +1,5 @@
 # Advent of Code
-> My Python Advent of Code solutions
-
-This is my first real use of Python apart from the theoretical learning. Not the cleanest nor the most efficient code, just hacked together into something that works while having fun and learning. Kudos to [**@topaz**](https://github.com/topaz) for creating [AoC](https://adventofcode.com)!
+> Helping santa save Christmas, one ⭐ at a time
 
 <pre>      --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
